@@ -1,0 +1,26 @@
+[
+  {
+    "color": "red",
+    "value": "elephant"
+  },
+  {
+    "color": "blue",
+    "value": "horse"
+  },
+  {
+    "color": "red",
+    "value": "chicken"
+  },
+  {
+    "color": "blue",
+    "value": "crocodile"
+  },
+  {
+    "color": "red",
+    "value": "monkey"
+  },
+  {
+    "color": "black",
+    "value": "cat"
+  }
+]
